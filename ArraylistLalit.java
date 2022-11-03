@@ -1,4 +1,5 @@
 import java.util.*;
+
 class ArraylistLalit {
     public static void main(String args[]) {
         ArrayList<String> list = new ArrayList<String>();// Creating arraylist
