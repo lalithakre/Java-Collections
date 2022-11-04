@@ -1,4 +1,5 @@
 import java.util.*;
+
 class HashSet1 {
     public static void main(String args[]) {
         // Creating HashSet and adding elements

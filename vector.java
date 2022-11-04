@@ -11,8 +11,8 @@ class vector {
             System.out.println(i);
         }
         System.out.println(v.size());
-        System.out.println(v.elementAt(0));
-        System.out.println(v.clone());
+        // System.out.println(v.elementAt(0));
+        // System.out.println(v.clone());
         System.out.println(v.add(49));
     }
 }
